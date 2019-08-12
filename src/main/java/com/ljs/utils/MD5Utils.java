@@ -26,6 +26,8 @@ public class MD5Utils {
 
     public static void main(String[] args) {
         System.out.println(md5("1234"));
+        System.out.println(md5("6666"));
+
     }
 
 }
